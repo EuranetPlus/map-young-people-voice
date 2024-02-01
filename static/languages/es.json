@@ -1,12 +1,12 @@
 {
   "heading": "¿Tienen los jóvenes suficiente voz en la política?",
-  "subheading": "La participación de jóvenes menores de 30 años en los parlamentos nacionales no refleja su proporción en la población de los países de la UE27.",
+  "subheading": "La participación de jóvenes menores de 30 años en los parlamentos nacionales no refleja su proporción en la población de los países europeos.",
   "legend1": "Datos no disponibles",
   "tooltip1": "de parlamentarios de 30 años y menos",
   "textSourceDescription": "Fuente",
   "textSource": "Unión Interparlamentaria - Participación de los jóvenes en los parlamentos nacionales 2023",
   "textNoteDescription": "Nota",
-  "textNote": "Número real de eurodiputados menores de 30 años: 13 de 705",
+  "textNote": "Número real de eurodiputados menores de 30 años: 13 de 705. Los datos aquí representados se basan en la representación en la respectiva cámara baja del parlamento de cada país.",
   "textDataAccess": "Accede a los datos",
   "linkDataAccess": "https://www.ipu.org/file/17897/download",
   "textCountryClick": "Haga clic para más información"

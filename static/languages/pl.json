@@ -1,12 +1,12 @@
 {
   "heading": "Czy młodzi ludzie mają wystarczający głos w polityce?",
-  "subheading": "Udział młodych ludzi w wieku poniżej 30 lat w parlamentach krajowych nie odzwierciedla ich udziału w populacji w krajach UE-27.",
+  "subheading": "Udział młodych ludzi w wieku poniżej 30 lat w parlamentach krajowych nie odzwierciedla ich udziału w populacji krajów europejskich.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "parlamentarzystów w wieku do 30 lat",
   "textSourceDescription": "Źródło",
   "textSource": "Unia Międzyparlamentarna – Udział młodzieży w parlamentach narodowych 2023",
   "textNoteDescription": "Notatka",
-  "textNote": "Rzeczywista liczba posłów do Parlamentu Europejskiego w wieku poniżej 30 lat: 13 z 705",
+  "textNote": "Rzeczywista liczba posłów do Parlamentu Europejskiego w wieku poniżej 30 lat: 13 z 705. Przedstawione tutaj dane opierają się na reprezentacji w odpowiedniej izbie niższej parlamentu w każdym kraju.",
   "textDataAccess": "Uzyskaj dostęp do danych",
   "linkDataAccess": "https://www.ipu.org/file/17897/download",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"

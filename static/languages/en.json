@@ -1,12 +1,12 @@
 {
   "heading": "Do young people have enough voice in politics?",
-  "subheading": "The participation of young people under 30 years in national parliaments does not reflect their share in the population across the EU27 countries.",
+  "subheading": "The participation of young people under 30 years in national parliaments does not reflect their share in the population across european countries.",
   "legend1": "No data available",
   "tooltip1": "of MPs 30 years and under",
   "textSourceDescription": "Source",
   "textSource": "Inter-Parliamentary Union - Youth participation in national parliaments 2023",
   "textNoteDescription": "Note",
-  "textNote": "Actual number of MEPs younger than 30 years: 13 of 705",
+  "textNote": "Actual number of MEPs younger than 30 years: 13 of 705. The data represented here is based on the representation in the respective lower chamber of parliament in each country.",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://www.ipu.org/file/17897/download",
   "textCountryClick": "Click for more info"

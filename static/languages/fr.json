@@ -1,12 +1,12 @@
 {
   "heading": "Les jeunes ont-ils suffisamment de voix en politique ?",
-  "subheading": "La participation des jeunes de moins de 30 ans aux parlements nationaux ne reflète pas leur part dans la population des 27 pays de l’UE.",
+  "subheading": "La participation des jeunes de moins de 30 ans aux parlements nationaux ne reflète pas leur part dans la population des pays européens.",
   "legend1": "Pas de données disponibles",
   "tooltip1": "des députés de 30 ans et moins",
   "textSourceDescription": "Source",
   "textSource": "Union interparlementaire - Participation des jeunes aux parlements nationaux 2023",
   "textNoteDescription": "Note",
-  "textNote": "Nombre réel de députés européens de moins de 30 ans : 13 sur 705",
+  "textNote": "Nombre réel de députés européens de moins de 30 ans : 13 sur 705. Les données présentées ici sont basées sur la représentation dans la chambre basse du parlement respective de chaque pays.",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://www.ipu.org/file/17897/download",
   "textCountryClick": "Cliquez pour plus d'informations"

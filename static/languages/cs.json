@@ -1,12 +1,12 @@
 {
   "heading": "Mají mladí lidé dostatek hlasu v politice?",
-  "subheading": "Účast mladých lidí do 30 let v národních parlamentech neodráží jejich podíl v populaci v zemích EU27.",
+  "subheading": "Účast mladých lidí do 30 let v národních parlamentech neodráží jejich podíl v populaci v evropských zemích.",
   "legend1": "Nejsou k dispozici žádné údaje",
   "tooltip1": "poslanců do 30 let",
   "textSourceDescription": "Zdroj",
   "textSource": "Meziparlamentní unie – Účast mládeže v národních parlamentech 2023",
   "textNoteDescription": "Poznámka",
-  "textNote": "Skutečný počet europoslanců mladších 30 let: 13 ze 705",
+  "textNote": "Skutečný počet europoslanců mladších 30 let: 13 ze 705. Zde uvedené údaje vycházejí ze zastoupení v příslušné dolní komoře parlamentu v každé zemi.",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://www.ipu.org/file/17897/download",
   "textCountryClick": "Klikněte pro více informací"

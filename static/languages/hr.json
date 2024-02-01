@@ -1,12 +1,12 @@
 {
   "heading": "Imaju li mladi dovoljno glasa u politici?",
-  "subheading": "Sudjelovanje mladih ispod 30 godina u nacionalnim parlamentima ne odražava njihov udio u stanovništvu u zemljama EU27.",
+  "subheading": "Sudjelovanje mladih ispod 30 godina u nacionalnim parlamentima ne odražava njihov udio u stanovništvu diljem europskih zemalja.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "zastupnika do 30 godina",
   "textSourceDescription": "Izvor",
   "textSource": "Interparlamentarna unija - Sudjelovanje mladih u nacionalnim parlamentima 2023",
   "textNoteDescription": "Bilješka",
-  "textNote": "Stvarni broj europarlamentaraca mlađih od 30 godina: 13 od 705",
+  "textNote": "Stvarni broj zastupnika u Europskom parlamentu mlađih od 30 godina: 13 od 705. Ovdje prikazani podaci temelje se na zastupljenosti u odgovarajućem donjem domu parlamenta u svakoj zemlji.",
   "textDataAccess": "Pristupite podacima",
   "linkDataAccess": "https://www.ipu.org/file/17897/download",
   "textCountryClick": "Kliknite za više informacija"

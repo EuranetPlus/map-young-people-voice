@@ -1,12 +1,12 @@
 {
   "heading": "Har de unge stemme nok i politik?",
-  "subheading": "Unge under 30 års deltagelse i nationale parlamenter afspejler ikke deres andel af befolkningen i EU27-landene.",
+  "subheading": "Unge under 30 års deltagelse i nationale parlamenter afspejler ikke deres andel af befolkningen i de europæiske lande.",
   "legend1": "Ingen tilgængelig data",
   "tooltip1": "af parlamentsmedlemmer på 30 år og derunder",
   "textSourceDescription": "Kilde",
   "textSource": "Interparlamentarisk Union - Ungdoms deltagelse i nationale parlamenter 2023",
   "textNoteDescription": "Bemærk",
-  "textNote": "Faktisk antal MEP'er under 30 år: 13 ud af 705",
+  "textNote": "Faktisk antal MEP'er under 30 år: 13 ud af 705. Dataene repræsenteret her er baseret på repræsentationen i det respektive lavere parlamentskammer i hvert land.",
   "textDataAccess": "Få adgang til data",
   "linkDataAccess": "https://www.ipu.org/file/17897/download",
   "textCountryClick": "Klik for mere info"
