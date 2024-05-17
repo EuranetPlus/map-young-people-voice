@@ -1,13 +1,13 @@
 {
-  "heading": "Haben junge Menschen genug Mitspracherecht in der Politik?",
-  "subheading": "Die Beteiligung junger Menschen unter 30 Jahren in nationalen Parlamenten spiegelt nicht ihren Anteil an der Bevölkerung in den europäischen Ländern wider.",
+  "heading": "Haben junge Menschen in der Politik genügend Mitspracherecht?",
+  "subheading": "Die Beteiligung junger Menschen unter 30 Jahren an den nationalen Parlamenten spiegelt in den europäischen Ländern nicht ihren Anteil an der Bevölkerung wider.",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "der Abgeordneten unter 30 Jahren",
+  "tooltip1": "der Abgeordneten im Alter von 30 Jahren und jünger",
   "textSourceDescription": "Quelle",
-  "textSource": "Interparlamentarische Union – Jugendbeteiligung in nationalen Parlamenten 2023",
+  "textSource": "Interparlamentarische Union - Jugendbeteiligung in nationalen Parlamenten 2023",
   "textNoteDescription": "Notiz",
-  "textNote": "Tatsächliche Anzahl der Abgeordneten unter 30 Jahren: 13 von 705. Die hier dargestellten Daten basieren auf der Vertretung in der jeweiligen Unterkammer des Parlaments in jedem Land.",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textNote": "Tatsächliche Anzahl der Abgeordneten unter 30 Jahren: 13 von 705. Die hier dargestellten Daten basieren auf der Vertretung im jeweiligen Unterhaus des Parlaments in jedem Land.",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://www.ipu.org/file/17897/download",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }
