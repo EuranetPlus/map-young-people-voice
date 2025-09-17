@@ -1,13 +1,13 @@
 {
-  "heading": "Onko nuorilla tarpeeksi äänivaltaa politiikassa?",
-  "subheading": "Alle 30-vuotiaiden nuorten osallistuminen kansallisiin parlamentteihin ei heijasta heidän osuuttaan Euroopan maiden väestöstä.",
-  "legend1": "Tietoja ei ole saatavilla",
-  "tooltip1": "30 vuotta täyttäneistä kansanedustajista",
+  "heading": "Onko nuorilla tarpeeksi sananvaltaa politiikassa?",
+  "subheading": "Alle 30-vuotiaiden nuorten osallistuminen kansallisiin parlamentteihin ei heijasta heidän osuuttaan väestöstä eri Euroopan maissa.",
+  "legend1": "Ei tietoja saatavilla",
+  "tooltip1": "alle 30-vuotiaista kansanedustajista",
   "textSourceDescription": "Lähde",
-  "textSource": "Parlamenttienvälinen unioni – Nuorten osallistuminen kansallisiin parlamentteihin 2023",
+  "textSource": "Parlamenttien välinen liitto - Nuorten osallistuminen kansallisiin parlamentteihin 2023",
   "textNoteDescription": "Huomautus",
-  "textNote": "Alle 30-vuotiaiden Euroopan parlamentin jäsenten todellinen lukumäärä: 13/705. Tässä esitetyt tiedot perustuvat edustukseen kunkin maan vastaavassa parlamentin alahuoneessa.",
+  "textNote": "Alle 30-vuotiaiden Euroopan parlamentin jäsenten todellinen lukumäärä: 13/705. Tässä esitetyt tiedot perustuvat edustukseen kunkin maan parlamentin alahuoneessa.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://www.ipu.org/file/17897/download",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Vai jauniešiem politikā pietiek balss?",
-  "subheading": "Jauniešu, kas jaunāki par 30 gadiem, dalība valstu parlamentos neatspoguļo viņu īpatsvaru Eiropas valstu iedzīvotāju skaitā.",
-  "legend1": "Nav pieejami dati",
-  "tooltip1": "30 gadus veci un jaunāki deputāti",
+  "heading": "Vai jauniešiem ir pietiekami daudz balss politikā?",
+  "subheading": "Jauniešu, kas jaunāki par 30 gadiem, līdzdalība valstu parlamentos neatspoguļo viņu īpatsvaru iedzīvotāju skaitā visās Eiropas valstīs.",
+  "legend1": "Dati nav pieejami",
+  "tooltip1": "deputātu, kas jaunāki par 30 gadiem",
   "textSourceDescription": "Avots",
-  "textSource": "Starpparlamentu savienība — jaunatnes līdzdalība valstu parlamentos 2023",
+  "textSource": "Starpparlamentu savienība — Jaunatnes līdzdalība valstu parlamentos 2023. gadā",
   "textNoteDescription": "Piezīme",
-  "textNote": "Faktiskais EP deputātu skaits, kas jaunāki par 30 gadiem: 13 no 705. Šeit sniegtie dati ir balstīti uz pārstāvniecību attiecīgajā parlamenta apakšpalātā katrā valstī.",
+  "textNote": "Faktiskais Eiropas Parlamenta deputātu skaits, kas jaunāki par 30 gadiem: 13 no 705. Šeit sniegtie dati ir balstīti uz pārstāvniecību attiecīgajā parlamenta apakšpalātā katrā valstī.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://www.ipu.org/file/17897/download",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

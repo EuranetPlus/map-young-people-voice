@@ -1,13 +1,13 @@
 {
-  "heading": "Imajo mladi dovolj glasu v politiki?",
-  "subheading": "Udeležba mladih, mlajših od 30 let, v nacionalnih parlamentih ne odraža njihovega deleža v prebivalstvu evropskih držav.",
-  "legend1": "Ni podatkov",
+  "heading": "Ali imajo mladi dovolj glasu v politiki?",
+  "subheading": "Sodelovanje mladih, mlajših od 30 let, v nacionalnih parlamentih ne odraža njihovega deleža v prebivalstvu v evropskih državah.",
+  "legend1": "Ni na voljo podatkov",
   "tooltip1": "poslancev, starih 30 let in manj",
   "textSourceDescription": "Vir",
   "textSource": "Medparlamentarna unija - Sodelovanje mladih v nacionalnih parlamentih 2023",
   "textNoteDescription": "Opomba",
-  "textNote": "Dejansko število evropskih poslancev, mlajših od 30 let: 13 od 705. Tukaj predstavljeni podatki temeljijo na zastopanosti v ustreznem spodnjem domu parlamenta v posamezni državi.",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textNote": "Dejansko število poslancev Evropskega parlamenta, mlajših od 30 let: 13 od 705. Podatki, predstavljeni tukaj, temeljijo na zastopanosti v spodnjem domu parlamenta v vsaki državi.",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://www.ipu.org/file/17897/download",
   "textCountryClick": "Kliknite za več informacij"
 }

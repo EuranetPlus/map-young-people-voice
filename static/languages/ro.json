@@ -1,13 +1,13 @@
 {
   "heading": "Au tinerii suficientă voce în politică?",
-  "subheading": "Participarea tinerilor sub 30 de ani la parlamentele naționale nu reflectă ponderea acestora în populația din țările europene.",
-  "legend1": "Nici o informatie disponibila",
-  "tooltip1": "a parlamentarilor de 30 de ani și mai puțin",
+  "subheading": "Participarea tinerilor sub 30 de ani în parlamentele naționale nu reflectă ponderea lor în populația țărilor europene.",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "de parlamentari cu vârsta de 30 de ani și mai mici",
   "textSourceDescription": "Sursă",
   "textSource": "Uniunea Interparlamentară - Participarea tinerilor în parlamentele naționale 2023",
-  "textNoteDescription": "Notă",
-  "textNote": "Numărul real de europarlamentari mai tineri de 30 de ani: 13 din 705. Datele prezentate aici se bazează pe reprezentarea în camera inferioară a parlamentului respectivă din fiecare țară.",
+  "textNoteDescription": "Nota",
+  "textNote": "Numărul real de deputați europeni cu vârsta sub 30 de ani: 13 din 705. Datele prezentate aici se bazează pe reprezentarea în camera inferioară a parlamentului din fiecare țară.",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://www.ipu.org/file/17897/download",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

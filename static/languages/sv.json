@@ -1,13 +1,13 @@
 {
-  "heading": "Har unga människor tillräckligt med röst i politiken?",
-  "subheading": "Ungdomar under 30 års deltagande i nationella parlament återspeglar inte deras andel av befolkningen i europeiska länder.",
-  "legend1": "Ingen data tillgänglig",
-  "tooltip1": "av riksdagsledamöter 30 år och yngre",
+  "heading": "Har unga människor tillräckligt med rösträtt i politiken?",
+  "subheading": "Deltagandet av unga människor under 30 år i nationella parlament återspeglar inte deras andel av befolkningen i de europeiska länderna.",
+  "legend1": "Inga data tillgängliga",
+  "tooltip1": "av parlamentsledamöter 30 år och yngre",
   "textSourceDescription": "Källa",
-  "textSource": "Interparlamentariska unionen - Ungdoms deltagande i nationella parlament 2023",
+  "textSource": "Interparlamentariska unionen - Ungdomars deltagande i nationella parlament 2023",
   "textNoteDescription": "Notera",
-  "textNote": "Faktiskt antal parlamentsledamöter yngre än 30 år: 13 av 705. Uppgifterna som representeras här är baserade på representationen i respektive lägre kammare i varje land.",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "Faktiskt antal ledamöter i Europaparlamentet under 30 år: 13 av 705. Uppgifterna som presenteras här baseras på representationen i respektive parlaments underkammare i varje land.",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://www.ipu.org/file/17897/download",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

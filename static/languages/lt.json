@@ -1,13 +1,13 @@
 {
   "heading": "Ar jaunimas turi pakankamai balso politikoje?",
-  "subheading": "Jaunesnių nei 30 metų žmonių dalyvavimas nacionaliniuose parlamentuose neatspindi jų dalies tarp Europos šalių gyventojų.",
+  "subheading": "Jaunų žmonių iki 30 metų dalyvavimas nacionaliniuose parlamentuose neatspindi jų dalies tarp gyventojų įvairiose Europos šalyse.",
   "legend1": "Nėra duomenų",
-  "tooltip1": "30 metų ir jaunesnių parlamentarų",
+  "tooltip1": "parlamento narių iki 30 metų",
   "textSourceDescription": "Šaltinis",
-  "textSource": "Tarpparlamentinė sąjunga – jaunimo dalyvavimas nacionaliniuose parlamentuose 2023 m",
+  "textSource": "Tarpparlamentinė sąjunga – jaunimo dalyvavimas nacionaliniuose parlamentuose 2023 m.",
   "textNoteDescription": "Pastaba",
-  "textNote": "Faktinis Europos Parlamento narių, jaunesnių nei 30 metų, skaičius: 13 iš 705. Čia pateikti duomenys yra pagrįsti atstovavimu atitinkamuose žemesniuose parlamento rūmuose kiekvienoje šalyje.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Faktinis jaunesnių nei 30 metų EP narių skaičius: 13 iš 705. Čia pateikti duomenys pagrįsti atstovavimu atitinkamuose kiekvienos šalies parlamento žemesniuosiuose rūmuose.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://www.ipu.org/file/17897/download",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Van-e elég hangjuk a fiataloknak a politikában?",
-  "subheading": "A 30 év alatti fiatalok nemzeti parlamentekben való részvétele nem tükrözi arányukat az európai országok népességéből.",
-  "legend1": "Nincs elérhető adat",
-  "tooltip1": "30 éves és fiatalabb képviselők",
+  "heading": "Van-e elég beleszólásuk a fiatalokba a politikában?",
+  "subheading": "A 30 év alatti fiatalok nemzeti parlamenti részvétele nem tükrözi az európai országok lakosságán belüli arányukat.",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltip1": "a 30 év alatti képviselők közül",
   "textSourceDescription": "Forrás",
-  "textSource": "Interparlamentáris Unió – A fiatalok részvétele a nemzeti parlamentekben 2023",
-  "textNoteDescription": "jegyzet",
-  "textNote": "A 30 évnél fiatalabb európai parlamenti képviselők tényleges száma: 705-ből 13. Az itt bemutatott adatok az egyes országok parlamenti alsó kamarájában való képviseleten alapulnak.",
+  "textSource": "Parlamentközi Unió - Fiatalok részvétele a nemzeti parlamentekben 2023",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "A 30 év alatti európai parlamenti képviselők tényleges száma: 705-ből 13. Az itt bemutatott adatok az egyes országok parlamenti alsóházában lévő képviseleten alapulnak.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://www.ipu.org/file/17897/download",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }
