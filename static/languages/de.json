@@ -1,13 +1,13 @@
 {
-  "heading": "Haben junge Menschen in der Politik genügend Mitspracherecht?",
-  "subheading": "Die Beteiligung junger Menschen unter 30 Jahren an den nationalen Parlamenten spiegelt in den europäischen Ländern nicht ihren Anteil an der Bevölkerung wider.",
+  "heading": "Haben junge Menschen genügend Mitspracherecht in der Politik?",
+  "subheading": "Die Beteiligung junger Menschen unter 30 Jahren an den nationalen Parlamenten spiegelt in den europäischen Ländern nicht ihren Bevölkerungsanteil wider.",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "der Abgeordneten im Alter von 30 Jahren und jünger",
+  "tooltip1": "von Abgeordneten im Alter von 30 Jahren und jünger",
   "textSourceDescription": "Quelle",
-  "textSource": "Interparlamentarische Union – Jugendbeteiligung in nationalen Parlamenten 2023",
+  "textSource": "Interparlamentarische Union – Jugendbeteiligung in nationalen Parlamenten 2025",
   "textNoteDescription": "Notiz",
-  "textNote": "Tatsächliche Anzahl der Abgeordneten unter 30 Jahren: 13 von 705. Die hier dargestellten Daten basieren auf der Vertretung in der jeweiligen Unterkammer des Parlaments in jedem Land.",
-  "textDataAccess": "Zugriff auf die Daten",
-  "linkDataAccess": "https://www.ipu.org/file/17897/download",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen"
+  "textNote": "Nach den Europawahlen 2024 waren 18 der 719 in der Altersstatistik des Europäischen Parlaments erfassten Mitglieder des Europäischen Parlaments (MdEP) 30 Jahre oder jünger; dies entspricht 2,5 % der MdEP.",
+  "textDataAccess": "Greifen Sie auf die Daten zu.",
+  "linkDataAccess": "https://www.ipu.org/resources/publications/reports/2026-04/youth-participation-in-national-parliaments-2025",
+  "textCountryClick": "Klicken Sie hier für weitere Informationen."
 }

@@ -4,10 +4,10 @@
   "legend1": "Ingen data tilgængelige",
   "tooltip1": "af parlamentsmedlemmer på 30 år og derunder",
   "textSourceDescription": "Kilde",
-  "textSource": "Interparlamentarisk Union - Ungdomsdeltagelse i nationale parlamenter 2023",
+  "textSource": "Interparlamentarisk Union - Ungdomsdeltagelse i nationale parlamenter 2025",
   "textNoteDescription": "Note",
-  "textNote": "Faktisk antal MEP'er under 30 år: 13 ud af 705. Dataene her er baseret på repræsentationen i det respektive underkammer i parlamentet i hvert land.",
+  "textNote": "Efter valget til Europa-Parlamentet i 2024 var 18 ud af 719 medlemmer af Europa-Parlamentet (MEP'er), der er inkluderet i Europa-Parlamentets aldersstatistikker, 30 år eller yngre, hvilket repræsenterer 2,5 % af MEP'erne.",
   "textDataAccess": "Få adgang til dataene",
-  "linkDataAccess": "https://www.ipu.org/file/17897/download",
+  "linkDataAccess": "https://www.ipu.org/resources/publications/reports/2026-04/youth-participation-in-national-parliaments-2025",
   "textCountryClick": "Klik for mere information"
 }
