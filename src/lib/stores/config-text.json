@@ -4,10 +4,10 @@
   "legend1": "No data available",
   "tooltip1": "of MPs 30 years and under",
   "textSourceDescription": "Source",
-  "textSource": "Inter-Parliamentary Union - Youth participation in national parliaments 2023",
+  "textSource": "Inter-Parliamentary Union - Youth participation in national parliaments 2025",
   "textNoteDescription": "Note",
-  "textNote": "Actual number of MEPs younger than 30 years: 13 of 705. The data represented here is based on the representation in the respective lower chamber of parliament in each country.",
+  "textNote": "Following the 2024 European elections, 18 out of 719 Members of the European Parliament (MEPs) included in the European Parliament's age statistics were aged 30 or younger, representing 2.5% of MEPs.",
   "textDataAccess": "Access the data",
-  "linkDataAccess": "https://www.ipu.org/file/17897/download",
+  "linkDataAccess": "https://www.ipu.org/resources/publications/reports/2026-04/youth-participation-in-national-parliaments-2025",
   "textCountryClick": "Click for more info"
 }
